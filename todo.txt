@@ -1,0 +1,8 @@
+1. Add !predictions with equation total return of a user = bet of a user/(Total of side user bet on/Totalbet)
+3. reformat baltop
+4. make the bet 5050 money come from the bot
+4. add after points in !bet @user <amt>
+5. remove console logs of !bet @user <amt> 
+7. delete messages/clear especially the you have to do that in #botpreet
+9. make own role saver
+11. add a shop/inventory
